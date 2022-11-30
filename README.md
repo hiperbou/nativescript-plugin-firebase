@@ -1,4 +1,5 @@
 version 10.5.2 without ads
+Updated to API 31
 
 # NativeScript Firebase plugin
 
